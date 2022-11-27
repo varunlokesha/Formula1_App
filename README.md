@@ -15,3 +15,9 @@ Microsoft Excel
 
 The report can be launched [Formula 1 App ](https://app.powerbi.com/view?embedImagePlaceholder=true&pageName=ReportSection&r=eyJrIjoiMmEzMmYxNGQtMDY2NC00OWVlLWI2ZWUtNWM4ZTY0NjBlNWYyIiwidCI6ImE4ZWVjMjgxLWFhYTMtNGRhZS1hYzliLTlhMzk4YjkyMTVlNyIsImMiOjN9)
 
+## Source
+
+Dataset Source [Ergast - API](http://ergast.com/mrd/)
+Image credit to Formula 1 or their respective owners.
+Report is intended for educational purposes.
+
