@@ -7,8 +7,8 @@ Formula 1 App is an interactive dashboard for historical formula 1 data visualiz
 ## Technologies
 
 Microsoft Power Bi
-Microsoft Power Query
-Microsoft Excel
+<br>Microsoft Power Query
+<br>Microsoft Excel
 
 
 ## Launch
