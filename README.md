@@ -18,6 +18,6 @@ The report can be launched [Formula 1 App ](https://app.powerbi.com/view?embedIm
 ## Source
 
 Dataset Source [Ergast - API](http://ergast.com/mrd/)
-Image credit to Formula 1 or their respective owners.
-Report is intended for educational purposes.
+<br>Image credit to Formula 1 or their respective owners.
+<br>Report is intended for educational purposes.
 
