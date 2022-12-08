@@ -10,7 +10,7 @@ Microsoft Power Bi
 <br>Microsoft Power Query
 <br>Microsoft Excel
 <br>
-<br> The data was extracted from [Ergast - API](http://ergast.com/mrd/) , transformed which included cleaning, modelling, and loading along with creation of new measures, custom tables, using DAX queries to create thei interactive dashboard.
+<br> The data was extracted from [Ergast - API](http://ergast.com/mrd/) , transformed which included cleaning, modelling, and loading along with creation of new measures, custom tables, using DAX queries to create the interactive dashboard.
 
 
 
